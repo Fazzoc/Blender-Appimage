@@ -2,9 +2,9 @@
 
 Unofficial version of the blender Appimage
 
-Unpack :
+Use Gearlever :
 ```shell
-./blender-x.x.x-linux.Appimage --appimage-extract
+https://flathub.org/apps/it.mijorus.gearlever
 ```
 
 [4.2.0 LTS Download](https://github.com/Fazzoc/Blender-Appimage/releases/download/BlenderLTS/blender-4.2.0-linux-x64.Appimage)
