@@ -4,7 +4,7 @@ Unofficial version of the blender Appimage
 
 Use Gearlever :
 ```shell
-[https://flathub.org/apps/it.mijorus.gearlever](https://github.com/Fazzoc/Blender-Appimage/releases/download/BlenderLTS/blender-4.2.0-linux-x64.Appimage)
+https://github.com/Fazzoc/Blender-Appimage/releases/download/BlenderLTS/blender-4.2.0-linux-x64.Appimage
 ```
 
 [4.2.0 LTS Download](https://github.com/Fazzoc/Blender-Appimage/releases/download/BlenderLTS/blender-4.2.0-linux-x64.Appimage)
